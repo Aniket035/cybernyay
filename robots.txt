@@ -1,0 +1,6 @@
+﻿# Robots.txt for CyberNyay Solution Private Limited
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://cybernyaysolution.com/sitemap.xml
